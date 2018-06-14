@@ -1,0 +1,20 @@
+\select@language {german}
+\contentsline {chapter}{\nonumberline \IeC {\"U}ber diese Version}{i}
+\contentsline {chapter}{\nonumberline Vorrede zum Franz\IeC {\"o}sischen Original}{iii}
+\contentsline {chapter}{\numberline {1}Unsere Reicht\IeC {\"u}mer}{1}
+\contentsline {chapter}{\numberline {2}Der Wohlstand f\IeC {\"u}r Alle}{9}
+\contentsline {chapter}{\numberline {3}Der Anarchistische Kommunismus}{17}
+\contentsline {chapter}{\numberline {4}Die Expropriation}{25}
+\contentsline {chapter}{\numberline {5}Die Lebensmittel}{35}
+\contentsline {chapter}{\numberline {6}Die Wohnung}{53}
+\contentsline {chapter}{\numberline {7}Die Bekleidung}{61}
+\contentsline {chapter}{\numberline {8}Zweck und Leistungsf\IeC {\"a}higkeit der Produktion}{65}
+\contentsline {chapter}{\numberline {9}Die Luxusbed\IeC {\"u}rfnisse}{71}
+\contentsline {chapter}{\numberline {10}Die Angenehme Arbeit}{83}
+\contentsline {chapter}{\numberline {11}Die freie Vereinbarung}{91}
+\contentsline {chapter}{\numberline {12}Einw\IeC {\"u}rfe}{103}
+\contentsline {chapter}{\numberline {13}Das Kollektivistische Lohnsystem}{117}
+\contentsline {chapter}{\numberline {14}Konsumption und Produktion}{129}
+\contentsline {chapter}{\numberline {15}Die Arbeitsteilung}{135}
+\contentsline {chapter}{\numberline {16}Die Dezentralisation der Industrien}{139}
+\contentsline {chapter}{\numberline {17}Der Ackerbau}{147}
